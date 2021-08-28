@@ -15,6 +15,7 @@ In my free time, I love to dig into several kinds of design like web, logos and 
 [<img src="https://img.shields.io/badge/spring-%236db33f.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>]()
 [<img src="https://img.shields.io/badge/spring%20boot-%236db33f.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>]()
 [<img src="https://img.shields.io/badge/hibernate-%235a676d.svg?&style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>]()
+[<img src="https://img.shields.io/badge/thymeleaf-%23005f0f.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Hibernate"/>]()
 [<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>]()
 [<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>]()
 [<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>]()
